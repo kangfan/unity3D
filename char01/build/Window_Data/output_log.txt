@@ -11,7 +11,7 @@ Platform assembly: F:\myUnity\unity3D\char01\build\Window_Data\Managed\UnityEngi
 Loading F:\myUnity\unity3D\char01\build\Window_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: F:\myUnity\unity3D\char01\build\Window_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading F:\myUnity\unity3D\char01\build\Window_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
+- Completed reload, in  0.044 seconds
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -21,7 +21,3 @@ FullResetD3DDevice
 ResetD3DDevice
 dev->Reset
 D3Dwindow device not lost anymore
-Sure Button has be clicked 
- 
-(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
-
